@@ -17,3 +17,5 @@ A modular Python automation tool that uses **Amazon Textract** and **AWS S3** to
    ```bash
    git clone [https://github.com](https://github.com/edgar185/aws-pdf-extractor/blob/main/PDFExtracter.py)
    cd aws-pdf-extractor
+
+
